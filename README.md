@@ -1,6 +1,5 @@
 ## LLM & GenAI
-This repo explores Large Language Models (LLMs) via the OpenRouter API.
-The ipynb file can be found under the notebook folder.
+This repo explores Large Language Models (LLMs) via the OpenRouter API
 
 ## CONTENT
 
