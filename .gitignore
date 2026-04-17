@@ -1,0 +1,8 @@
+.env
+.venv/
+data/
+evals/
+src/
+tests/
+requirements.txt
+notebooks/LLM_GenAI_Training.ipynb
